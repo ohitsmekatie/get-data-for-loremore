@@ -4,9 +4,10 @@ import json
 import time
 from pathlib import Path
 import os
+import string 
 
 BASE_URL = "https://one-name.org/surnames_A-Z/"
-LETTERS = [chr(i) for i in range(ord("A"), ord("Z")+1)]
+LETTERS = list(string.ascii_letters)
 
 OUTPUT_PATH = Path("data/last_names.json")
 
