@@ -1,4 +1,4 @@
-# Get Data for Lore & More
+# Data Scripts
 
 👋 This repository contains scripts for collecting data from various sources to populate the database for my website [Lore & More](https://ohitsmetables.com/), which is a resource for world building and TTRPG game prep.
 
